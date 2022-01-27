@@ -1,0 +1,10 @@
+name: Socket
+version: 0.0.1 
+description: A simple Concurrency App
+#dependencies: 
+#  foo_bar: '>=1.0.0 <2.0.0'
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+dependencies:
+  xml: '>=5.3.1'
+  http: '>=0.13.4'
